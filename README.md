@@ -32,3 +32,4 @@ Now that you're set up, you're ready to start the quest! 🏁 Follow the steps a
 
 Happy questing~ 🎉
 # defi
+# defi
